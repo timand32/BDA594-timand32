@@ -1,4 +1,4 @@
-# GEOG594-timand32
+# BDA594-timand32
 
 This repository was created by **Timothy Andersen**.
 
